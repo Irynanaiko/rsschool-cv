@@ -42,3 +42,37 @@ connecting CSS styles,
 make page functional with a JS.
 
 **Chemistry and Biology teacher:** at Bukovynskiy University
+
+## EDUCATION
+
+**Master of Chemical Sciences:** Ternopil National Pedagogical University
+
+## ADDITIONAL EDUCATION
+
+(COURSES, TRAININGS)
+
+**SoftServe academy:** HTML5/CSS3/JavaScript Fundamental
+
+**Beetroot academy:** Front-end development course
+
+**Udemy:** Практический JavaScript(Продвинутый уровень)
+
+Полный курс по JavaScript + React – с нуля до результата
+
+Web-разработчик 2020
+
+**Sololearn:** HTML Fundamentals course
+
+CSS course
+
+JavaScript course
+
+## CERTIFICATES
+
+https://drive.google.com/drive/folders/1oQ8_IZKwph6a-onsBYiuam1JyZJTRiYB
+
+## LANGUAGES
+
+English – Intermediate level
+
+Ukrainian – Native
